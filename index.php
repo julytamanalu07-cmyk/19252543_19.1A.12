@@ -6,6 +6,7 @@
     <title>kuis</title>
 </head>
 <body>
+    <!--ini adalah editan di github  -->
  <!--Inputan NAMA, kelas, mata kuliah, dan jurusan  -->
  <form action="">
 
