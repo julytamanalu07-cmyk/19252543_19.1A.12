@@ -7,7 +7,7 @@
 </head>
 <body>
     <!--ini adalah editan di github  -->
- <!--Inputan NAMA, kelas, mata kuliah, dan jurusan  -->
+ <!--Inputan Nama, Nim, Kelas, dan Jenis kelamin  -->
  <form action="">
 
  <label for="">Nama:</label><input type="text"> <br>
